@@ -24,7 +24,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.version>0.1</project.version>
-        <mysql.version>5.1.17</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <joda-time.version>1.6.2</joda-time.version>
         <joda-time-hibernate.version>1.2</joda-time-hibernate.version>
         <hsqldb.version>2.2.8</hsqldb.version>
