@@ -55,7 +55,7 @@
         <unit-core.version>2.8</unit-core.version>
         <css-parser.version>0.9.5</css-parser.version>
         <nehohtml.version>1.9.14</nehohtml.version>
-        <httpcomponents-client.version>4.3.6</httpcomponents-client.version>
+        <httpcomponents-client.version>4.5.13</httpcomponents-client.version>
         <httpcomponents-httpmime.version>4.0.1</httpcomponents-httpmime.version>
         <xalan.version>2.7.1</xalan.version>
         <xerces.version>2.12.0</xerces.version>
