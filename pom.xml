@@ -19,7 +19,7 @@
         <build.final.name>ROOT</build.final.name>
         <gwt.version>2.5.0</gwt.version>
         <spring.version>3.2.4.RELEASE</spring.version>
-        <spring-security.version>5.3.3.RELEASE</spring-security.version>
+        <spring-security.version>5.3.10.RELEASE</spring-security.version>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
