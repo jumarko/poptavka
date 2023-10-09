@@ -59,6 +59,40 @@ import org.springframework.security.access.annotation.Secured;
 @Configurable
 public class AdminRPCServiceImpl extends AutoinjectingRemoteService implements AdminRPCService {
 
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t) {
+        return 0;
+    }
+
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u) {
+        return 0;
+    }
+
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v) {
+        return 0;
+    }
+
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w) {
+        return 0;
+    }
+
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w, int x) {
+        return 0;
+    }
+
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w, int x, int y) {
+        return 0;
+    }
+
+    public AdminRPCServiceImpl(int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w, int x, int y, int z) {
+        return 0;
+    }
+
+
+    public void methodWithManyArgs(int a, int b, int c, int d, int e) {
+        return 0;
+    }
+
+
     /**************************************************************************/
     /* Attributes                                                             */
     /**************************************************************************/
@@ -375,6 +409,242 @@ public class AdminRPCServiceImpl extends AutoinjectingRemoteService implements A
             detail.setTotalItems(log.get(0).getTotalItems());
             detail.setProcessedItems(log.get(0).getProcessedItems());
             return detail;
+        }
+    }
+
+
+    public void nastyIfs() {
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        boolean randomTrue = false;
+        if (randomTrue) {
+            if (true) {
+                if (false) {
+                    if (true) {
+                        if (false) {
+                            if (true) {
+                                if (false) {
+                                    if (true) {
+                                        System.out.println("Nasty IFs.");
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        boolean randomTrue = false;
+        if (randomTrue) {
+            if (true) {
+                if (false) {
+                    if (true) {
+                        if (false) {
+                            if (true) {
+                                if (false) {
+                                    if (true) {
+                                        System.out.println("Nasty IFs.");
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        boolean randomTrue = false;
+        if (randomTrue) {
+            if (true) {
+                if (false) {
+                    if (true) {
+                        if (false) {
+                            if (true) {
+                                if (false) {
+                                    if (true) {
+                                        System.out.println("Nasty IFs.");
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        boolean randomTrue = false;
+        if (randomTrue) {
+            if (true) {
+                if (false) {
+                    if (true) {
+                        if (false) {
+                            if (true) {
+                                if (false) {
+                                    if (true) {
+                                        System.out.println("Nasty IFs.");
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        boolean randomTrue = false;
+        if (randomTrue) {
+            if (true) {
+                if (false) {
+                    if (true) {
+                        if (false) {
+                            if (true) {
+                                if (false) {
+                                    if (true) {
+                                        System.out.println("Nasty IFs.");
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+
+        boolean randomTrue = false;
+        if (randomTrue) {
+            if (true) {
+                if (false) {
+                    if (true) {
+                        if (false) {
+                            if (true) {
+                                if (false) {
+                                    if (true) {
+                                        System.out.println("Nasty IFs.");
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (true) {
+            if (false) {
+                if (true) {
+                    if (false) {
+                        if (true) {
+                            if (false) {
+                                if (true) {
+                                    System.out.println("Nasty IFs.");
+                                }
+                            }
+
+                        }
+                    }
+                }
+            }
         }
     }
 }
