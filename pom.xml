@@ -68,7 +68,7 @@
         <aspectj-maven-plugin.version>1.4</aspectj-maven-plugin.version>
         <maven-surefire-plugin.version>2.7.1</maven-surefire-plugin.version>
         <spring.amqp.version>2.3.11</spring.amqp.version>
-        <rabbitmq.version>4.8.0</rabbitmq.version>
+        <rabbitmq.version>5.18.0</rabbitmq.version>
         <jackson.version>2.12.7.1</jackson.version>
         <gwt-syncproxy.version>2.0</gwt-syncproxy.version>
         <javax-mail.version>1.4.4</javax-mail.version>
