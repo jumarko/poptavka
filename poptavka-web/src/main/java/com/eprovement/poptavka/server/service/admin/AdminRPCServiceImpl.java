@@ -376,5 +376,86 @@ public class AdminRPCServiceImpl extends AutoinjectingRemoteService implements A
             detail.setProcessedItems(log.get(0).getProcessedItems());
             return detail;
         }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
+        if (log.isEmpty()) {
+            return null;
+        } else {
+            LogDetail detail = new LogDetail();
+            detail.setStartDate(log.get(0).getStartDate());
+            detail.setTotalItems(log.get(0).getTotalItems());
+            detail.setProcessedItems(log.get(0).getProcessedItems());
+            return detail;
+        }
     }
 }
